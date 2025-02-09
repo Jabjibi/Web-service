@@ -15,7 +15,7 @@
 
 ### 📌 **Requirement (เครื่องมือที่ต้องใช้)**  
 ✅ Visual Studio Code  
-✅ ติดตั้งส่วนขยาย **'Vetur'** ใน Visual Studio Code  
+✅ Extensions **'Vetur'** ใน Visual Studio Code  
 ✅ Git  
 ✅ Node.js  
 ✅ PgAdmin  
