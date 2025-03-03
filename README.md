@@ -25,7 +25,7 @@
 
 ## 1️⃣ Clone this repo  
 ```cmd
-git clone https://github.com/DevPeeramate/Web_Technology.git
+git clone https://github.com/Jabjibi/Web-service.git
 ```
 📌 **หมายเหตุ:** อย่าลืมติดตั้ง **Vetur** ใน VS Code และ **Git**  
 
