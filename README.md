@@ -2,7 +2,7 @@
 
 - 📚 **Subject:** Web Technology and Web Services  
 - 🏢 **Project Detail:** ระบบจองห้องพัก (Room Reservation)  
-- 👥 **Type:** Group Project (โปรเจกต์กลุ่ม)  
+- 👥 **Type:** Group Project
 
 ---
 
